@@ -4,11 +4,13 @@
 
 @layer base {
   body {
-    background-color: white;
+    background-color: #ffffff;
     color: #111827; 
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
-}
-@theme {
-  --color-brand-navy: #013B50;
-  --color-brand-lime: #C7E160;
+  ::selection {
+    background-color: #C7E160;
+    color: #013B50;
+  }
 }
