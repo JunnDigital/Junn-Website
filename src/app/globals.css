@@ -4,6 +4,11 @@
 
 @layer base {
   body {
-    @apply bg-white text-gray-900 antialiased selection:bg-brand-lime selection:text-brand-navy;
+    background-color: white;
+    color: #111827; 
   }
+}
+@theme {
+  --color-brand-navy: #013B50;
+  --color-brand-lime: #C7E160;
 }
