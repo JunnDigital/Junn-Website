@@ -7,7 +7,7 @@ export default function PrivacyPolicy() {
           <p className="text-sm font-mono tracking-widest text-[#C7E160] uppercase mb-12">Last Updated: March 2026</p>
           
           <div className="prose prose-blue max-w-none text-gray-600">
-            <p className="text-lg mb-8">Junn Digital Ltd ("we", "our", or "us") respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website (junndigital.com).</p>
+            <p className="text-lg mb-8">Junn Digital Ltd (&quot;we&quot;, &quot;our&quot;, or &quot;us&quot;) respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website (junndigital.com).</p>
             
             <h2 className="text-2xl font-bold text-[#013B50] mt-12 mb-4">Information We Collect</h2>
             <p>We may collect information about you in a variety of ways when you interact with us. This may include personal data—such as your name, email address, telephone number, and company details—that you voluntarily provide to us when communicating with us or utilizing our software products.</p>

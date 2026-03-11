@@ -29,7 +29,7 @@ export default function TermsOfService() {
 
             <div>
               <h2 className="text-xl font-bold text-[#013B50] mb-3">5. No Warranties</h2>
-              <p>This website is provided "as is," with all faults, and Junn Digital Ltd expresses no representations or warranties, of any kind related to this website or the materials contained here. Nothing contained on this website shall be interpreted as advising you.</p>
+              <p>This website is provided &quot;as is,&quot; with all faults, and Junn Digital Ltd expresses no representations or warranties, of any kind related to this website or the materials contained here. Nothing contained on this website shall be interpreted as advising you.</p>
             </div>
 
             <div>
@@ -38,7 +38,7 @@ export default function TermsOfService() {
             </div>
 
             <div>
-              <h2 className="text-xl font-bold text-[#013B50] mb-3">7. Governing Law & Jurisdiction</h2>
+              <h2 className="text-xl font-bold text-[#013B50] mb-3">7. Governing Law &amp; Jurisdiction</h2>
               <p>These Terms will be governed by and interpreted in accordance with the laws of the Federal Republic of Nigeria, and you submit to the non-exclusive jurisdiction of the state and federal courts located in Nigeria for the resolution of any disputes.</p>
             </div>
           </div>

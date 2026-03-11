@@ -82,7 +82,7 @@ export default function Home() {
         <div className="relative z-10 max-w-4xl mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-8 tracking-tight">Systematic Digital Growth.</h2>
           <p className="text-xl text-gray-300 mb-12 font-light">
-            We don't do marketing hype. We write code, build systems, and deploy software that solves operational bottlenecks.
+            We don&apos;t do marketing hype. We write code, build systems, and deploy software that solves operational bottlenecks.
           </p>
           <a href="mailto:info@junndigital.com" className="inline-flex items-center justify-center bg-[#C7E160] text-[#013B50] px-8 py-4 text-sm font-bold tracking-wide hover:bg-white transition-colors rounded-sm">
             CONTACT US
